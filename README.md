@@ -5,7 +5,9 @@ You need to have MATLAB installed with the Signal Processing and Statistics and 
 
 Additonal toolboxes required:
 EEGLAB: Download the latest release from https://sccn.ucsd.edu/eeglab/index.php. I used eeglab14_1_2b. 
+
 ERPLAB: Download from https://erpinfo.org/erplab. I used ERPLAB v7.0.0
+
 Lestwave: Download from https://www.letswave.org/. I used Letswave6
 
 # MATLAB Setup
@@ -16,5 +18,9 @@ I usually have a MATLAB toolboxes folder in my document folder and keep EEGLAB a
 Step 2: Open MATLAB. Click on the "Set Path" under the Home tab.Click on add folder and select the EEGLAB and Letswave folders. Click save and then close.
 
 Step 3: Few additonal data import/analysis extensions are also required for EEGLAB. To get then open MATLAB and in the command window type "eeglab" and enter. The EEGLAB GUI will open. 
+
 > In the GUI, go to File>Manage EEGLAB extensions>Data import extensions. Check "neuroscanio" from the list and click OK
+
 > In the GUI, go to File>Manage EEGLAB extensions>Data processing extensions. Check "ICLabel", "Viewprops" and "CleanLine" from the list and OK.
+
+This initial set up needs to be done only once.
