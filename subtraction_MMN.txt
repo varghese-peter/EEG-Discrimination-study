@@ -1,0 +1,2 @@
+BIN5 = BIN2-BIN1 label Small_MMN
+BIN6 = BIN4-BIN3 label Large_MMN

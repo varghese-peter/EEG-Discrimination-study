@@ -1,0 +1,12 @@
+bin 1
+Small_Std
+.{4,6}
+bin 2
+Small_Dev
+.{8}
+bin 3
+Large_Std
+.{14,16}
+bin 4
+Large_Dev
+.{18}
