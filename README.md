@@ -24,3 +24,11 @@ Step 3: Few additonal data import/analysis extensions are also required for EEGL
 > In the GUI, go to File>Manage EEGLAB extensions>Data processing extensions. Check "ICLabel", "Viewprops" and "CleanLine" from the list and OK.
 
 This initial set up needs to be done only once.
+
+# Analysis steps
+
+Step 1 is same for all the measures- MMN, ACC and ASSR
+
+<b> MMN
+
+Run the step 2 script
