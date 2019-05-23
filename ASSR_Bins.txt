@@ -1,0 +1,9 @@
+bin 1
+ASSR1
+.{22}
+bin 2
+ASSR2
+.{24}
+bin 3
+ASSR3
+.{26} 
