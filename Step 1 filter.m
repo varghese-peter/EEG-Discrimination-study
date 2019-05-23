@@ -17,3 +17,4 @@ EEG = pop_cleanline(EEG, 'bandwidth',2,'chanlist',[1:64] ,'computepower',1,'line
 [ALLEEG EEG CURRENTSET] = pop_newset(ALLEEG, EEG, 3,'gui','off'); 
 EEG = pop_eegfiltnew(EEG, 'locutoff',0.1,'hicutoff',30);
 [ALLEEG EEG CURRENTSET] = pop_newset(ALLEEG, EEG, 4,'setname','S02_fil','savenew','S02_fil','gui','off'); 
+clear
