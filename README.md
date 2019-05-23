@@ -33,4 +33,4 @@ Step 1 is same for all the measures- MMN, ACC and ASSR
 
 <b> MMN </b>
 
-Run the step 2 script
+Run the "Step 2_MMN" script
