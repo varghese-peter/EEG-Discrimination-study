@@ -27,10 +27,10 @@ This initial set up needs to be done only once.
 
 # Analysis steps
 
-<b> All conditions
+<b> All conditions </b>
   
-<\b> Step 1 is same for all the measures- MMN, ACC and ASSR
+Step 1 is same for all the measures- MMN, ACC and ASSR
 
-<b> MMN
+<b> MMN </b>
 
-<\b> Run the step 2 script
+Run the step 2 script
