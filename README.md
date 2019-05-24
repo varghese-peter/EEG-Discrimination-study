@@ -36,3 +36,13 @@ Step 1 is same for all the measures- MMN, ACC and ASSR
 Run the "Step 2_MMN" script.
 
 Step 3 has to be done manually. Refer to the "Step 3.pdf" document
+
+Run the "Step 4_MMN" script.
+
+<b> ACC </b>
+
+Run the "Step 2_ACC" script.
+
+Step 3 is same as MMN
+
+Run the "Step 4_ACC" script.
