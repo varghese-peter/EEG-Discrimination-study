@@ -46,3 +46,11 @@ Run the "Step 2_ACC" script.
 Step 3 is same as MMN
 
 Run the "Step 4_ACC" script.
+
+<b> ASSR </b>
+
+Run the "Step 2_ASSR" script.
+
+Step 3 is same as MMN/ACC
+
+Run the "Step 4_ASSR" script.
