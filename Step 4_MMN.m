@@ -45,3 +45,4 @@ ERP = pop_erpchanoperator( ERP, {'nch1 = ch1 - ( 0.5*ch58 ) Label FP1','nch2 = c
     'nch64 = ch64 - ( 0.5*ch58 ) Label O2'} , 'ErrorMsg', 'popup', 'KeepLocations',0, ...
     'Warning', 'on' );
 ERP = pop_savemyerp(ERP, 'erpname', 'S02_MMN', 'filename', 'S02_MMN.erp', 'filepath', '/Users/varghesepeter/Downloads/S02');
+clear
