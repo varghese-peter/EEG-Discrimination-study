@@ -54,3 +54,5 @@ Run the "Step 2_ASSR" script.
 Step 3 is same as MMN/ACC
 
 Run the "Step 4_ASSR" script.
+
+Step 5 is done in Letswave. Refer to the "Step 5_ASSR.pdf" document
