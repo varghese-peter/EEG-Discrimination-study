@@ -31,7 +31,7 @@ Open MATLAB and set the "Current directory" as the folder with the scripts. The 
 
 <b> All conditions </b>
   
-Step 1 is same for all the measures- MMN, ACC and ASSR
+Step 1 is same for all the measures- MMN, ACC and ASSR. To run this step open the "Step 1.m" file and click "Run section" from the top ribbon.
 
 <b> MMN </b>
 
