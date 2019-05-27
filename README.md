@@ -27,6 +27,8 @@ This initial set up needs to be done only once.
 
 # Analysis steps
 
+Open MATLAB and set the "Current directory" as the folder with the scripts. The data can also be in the same folder.
+
 <b> All conditions </b>
   
 Step 1 is same for all the measures- MMN, ACC and ASSR
