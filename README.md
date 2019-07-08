@@ -6,7 +6,7 @@ You need to have MATLAB installed with the Signal Processing and Statistics and 
 Additonal toolboxes required:
 EEGLAB: Download the latest release from https://sccn.ucsd.edu/eeglab/index.php. I used eeglab14_1_2b. 
 
-**Update (08/07/2019). I checked with the new version of EEGLAB (EEGLAB_2019) and all the scripts works fine with it**
+<font color="red"> **Update (08/07/2019). I checked with the new version of EEGLAB (EEGLAB_2019) and all the scripts works fine with it**</font>
 
 ERPLAB: Download from https://erpinfo.org/erplab. I used ERPLAB v7.0.0
 
