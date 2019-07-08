@@ -4,7 +4,9 @@ Matlab and R scripts to analyse the EEG and behavioural data on objective measur
 You need to have MATLAB installed with the Signal Processing and Statistics and Machine learning toolboxes, The scripts works with MATLAB 2019a. If there are any issues with other versions of MATLAB, please update it in the issues
 
 Additonal toolboxes required:
-EEGLAB: Download the latest release from https://sccn.ucsd.edu/eeglab/index.php. I used eeglab14_1_2b. **I checked with the new version of EEGLAB (EEGLAB_2019) and all the scripts works fine with it**
+EEGLAB: Download the latest release from https://sccn.ucsd.edu/eeglab/index.php. I used eeglab14_1_2b. 
+
+**Update (08/07/2019). I checked with the new version of EEGLAB (EEGLAB_2019) and all the scripts works fine with it**
 
 ERPLAB: Download from https://erpinfo.org/erplab. I used ERPLAB v7.0.0
 
@@ -22,6 +24,8 @@ Step 3: Few additonal data import/analysis extensions are also required for EEGL
 > In the GUI, go to File>Manage EEGLAB extensions>Data import extensions. Check "neuroscanio" from the list and click OK
 
 > In the GUI, go to File>Manage EEGLAB extensions>Data processing extensions. Check "ICLabel", "Viewprops" and "CleanLine" from the list and OK.
+
+**Update (08/07/2019).In EEGLAB_2019, both data import and data processing extensions are grouped together at File>Manage EEGLAB extensions** 
 
 This initial set up needs to be done only once.
 
