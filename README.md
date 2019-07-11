@@ -27,6 +27,8 @@ Step 3: Few additonal data import/analysis extensions are also required for EEGL
 
 **Update (08/07/2019).In EEGLAB_2019, both data import and data processing extensions are grouped together at File>Manage EEGLAB extensions** 
 
+**Update (11/07/2019). There was a file missing in the EEGLAB_2019 release. To fix this, open EEGLAB from the command window, then go to File>Manage EEGLAN extensions, select dipfit v3.2 and click Install/Update**
+
 This initial set up needs to be done only once.
 
 # Analysis steps
